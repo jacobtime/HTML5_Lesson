@@ -1,0 +1,199 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.clear:after {
+    content: '';
+    display: block;
+    clear: both;
+    overflow: hidden;
+}
+
+h1 {
+    font-size: 20px;
+    color: black;
+}
+
+p {
+    font-size: 15px;
+    color: black;
+
+}
+
+.nav_1 {
+    margin: 0 auto 0 auto;
+    width: 1259px;
+    height: 80px;
+}
+
+.nav_1 ul {
+    list-style-type: none;
+    overflow: hidden;
+    text-align: center;
+
+}
+
+
+.logo {
+    float: left;
+    width: 250px;
+    display: flex;
+    height: 80px;
+    align-items: center;
+}
+
+.nav_l {
+    float: left;
+    color: #666;
+    width: 100px;
+    display: inline-block;
+}
+
+.nav_l a {
+    text-decoration: none;
+    line-height: 80px;
+}
+
+.nav_r{
+    float: right;
+    color: #666666;
+    margin: 5px;
+    display: inline-block;
+}
+
+.nav_1 li a:hover:not(.active) {
+    background-color: #ddd;
+}
+
+.nav_1 ul li a {
+    text-decoration: none;
+
+}
+
+.center {
+    margin: 0 auto 0 auto;
+    height: 800px;
+}
+.mid{
+    text-align: center;
+}
+.table {
+    position: absolute;
+    top: 200px;
+    margin-left: 500px;
+    align-items: center;
+    width: 700px;
+}
+
+.table > h2 {
+    margin-left: 200px;
+    font-size: 40px;
+    color: black;
+}
+
+.table div h1 {
+
+    text-align: center;
+    float: left;
+    height: 30px;
+    align-items: center;
+}
+
+.table div input {
+
+    border: 1px solid black;
+    height: 30px;
+    width: 300px;
+}
+
+.table div {
+    margin: 20px;
+}
+
+.table > input {
+    margin-top: 80px;
+    margin-left: 150px;
+    background: gray;
+    align-items: center;
+    width: 200px;
+    height: 50px;
+}
+.footer {
+    margin: 0 auto 0 auto;
+    height: 180px;
+    background-color: #f6f6f6;
+}
+
+.b_nav {
+    margin-left: 250px;
+    overflow: hidden;
+}
+
+.b_nav dl {
+    width: 320px;
+    height: 165px;
+    overflow: hidden;
+    float: left;
+    display: inline;
+}
+
+.b_nav dl dt {
+    height: 30px;
+    line-height: 30px;
+    overflow: hidden;
+    color: #3e3e3e;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.b_nav dl dt a {
+
+    color: #3e3e3e;
+}
+
+.b_nav dl dt a:hover {
+    color: #3e3e3e;
+    text-decoration: underline;
+}
+
+.b_nav dl dd {
+
+    font-size: 12px;
+    height: 24px;
+    line-height: 24px;
+    overflow: hidden;
+    color: #888888;
+}
+
+.b_nav dl dd a {
+    text-decoration: none;
+    color: #888888;
+}
+
+.b_nav dl dd a:hover {
+    color: #ff4e00;
+}
+
+
+.nav_foot {
+    position: relative;
+    height:30px;
+    width: 100%;
+    margin-top: -30px;
+    clear:both;
+    background-color: #f6f6f6;
+}
+
+.nav_foot ul {
+    list-style-type: none;
+    overflow: hidden;
+    text-align: center;
+}
+
+
+.nav_foot a {
+    font-size: 12px;
+    text-decoration: none;
+    color: black;
+}

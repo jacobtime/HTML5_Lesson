@@ -15545,7 +15545,8 @@ ol.c-list {
     display: flex
 }
 
-.c-mosaic-placement.f-height-large.f-width-small .m-hyperlink-group > div > .c-heading {
+.c-mosaic-placement.f-height-large.f-width-small .m-hyperlink-group > div > .c-heading
+{
     padding: 0 12.5% 11px
 }
 
