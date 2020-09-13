@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.clear:after {
+    content: '';
+    display: block;
+    clear: both;
+    overflow: hidden;
+}
+
+.nav_ul ul{
+    list-style-type: none;
+    overflow: hidden;
+    border: 1px solid #e7e7e7;
+    background-color: #f3f3f3;
+    padding: 10px 10px;
+}
+
+.nav_ul ul li{
+    float: left;
+
+}
+
+.nav_ul ul li a{
+    display: block;
+    color: #666;
+    text-align: center;
+    text-decoration: none;
+    height: 50px;
+}
+
+.logo{
+    width: 250px;
+}
+
+.nav_other{
+    width: 100px;
+    display:inline-block;
+    line-height: 40px;
+}
+.nav_ul ul li a:hover:not(.active) {
+    background-color: #ddd;
+}

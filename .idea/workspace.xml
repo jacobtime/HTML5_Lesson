@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aeaa72b5-0256-46bf-9dc6-a6a80507469c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/HTML5_Lesson.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mid-term/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mid-term/.idea/mid-term.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mid-term/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mid-term/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mid-term/css/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mid-term/image/article.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mid-term/image/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mid-term/image/version1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mid-term/image/version2.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mid-term/image/version3.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mid-term/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hR5pCYmMGIMhiT8JqoCN2HGOAo" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aeaa72b5-0256-46bf-9dc6-a6a80507469c" name="Default Changelist" comment="" />
+      <created>1599961245090</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599961245090</updated>
+      <workItem from="1599961246285" duration="376000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+</project>
