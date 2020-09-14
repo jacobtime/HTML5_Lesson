@@ -16,7 +16,7 @@
     height: 120px;
     overflow: hidden;
 }
-#form:hover{
+#form:active{
     overflow: visible;
 }
 .clear:after {
@@ -145,31 +145,6 @@ p {
     border-radius: 5%;
 }
 
-.c-radius-l {
-    font-size: 24px;
-    line-height: 28px;
-    position: absolute;
-    top: 340px;
-    left: 180px;
-    width: 50px;
-    height: 50px;
-    border: none;
-    border-radius: 50%;
-    background-color: #fff
-}
-
-.c-radius-r {
-    font-size: 24px;
-    line-height: 28px;
-    position: absolute;
-    top: 340px;
-    right: 180px;
-    width: 50px;
-    height: 50px;
-    border: none;
-    border-radius: 50%;
-    background-color: #fff
-}
 
 .nav_2 {
     margin: 0 auto 0 auto;

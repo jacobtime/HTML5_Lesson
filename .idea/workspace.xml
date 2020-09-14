@@ -20,34 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aeaa72b5-0256-46bf-9dc6-a6a80507469c" name="Default Changelist" comment="test">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mid-term/buy.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mid-term/css/buy.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mid-term/css/login.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mid-term/css/register.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mid-term/image/MIC2627-593Wx390H-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mid-term/image/RE4CFyx.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mid-term/image/RE4DfTp.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mid-term/image/RE4pkvE.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mid-term/image/RE4pndL.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mid-term/image/RE4pxBu.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mid-term/image/RE4r2gN.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mid-term/image/RE4rriw.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mid-term/image/RE4rvYV.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mid-term/image/RE4rzs9.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mid-term/image/RE4sQDc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mid-term/image/RE4tj4A.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mid-term/image/RE4ualb.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mid-term/image/RE4ze1O.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mid-term/image/RE4zwiT.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mid-term/image/REHt8H.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mid-term/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mid-term/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mid-term/image/RE4zr9t.jpeg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mid-term/buy.html" beforeDir="false" afterPath="$PROJECT_DIR$/mid-term/buy.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mid-term/css/buy.css" beforeDir="false" afterPath="$PROJECT_DIR$/mid-term/css/buy.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mid-term/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/mid-term/css/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mid-term/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/mid-term/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/css1.css" beforeDir="false" afterPath="$PROJECT_DIR$/temp/css1.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/temp/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mid-term/css/register.css" beforeDir="false" afterPath="$PROJECT_DIR$/mid-term/css/register.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mid-term/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/mid-term/register.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,7 +95,16 @@
       <option name="presentableId" value="Default" />
       <updated>1599961245090</updated>
       <workItem from="1599961246285" duration="376000" />
+      <workItem from="1600043907939" duration="5278000" />
     </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1600006947407</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600006947407</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,6 +120,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -223,10 +212,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1600006810188" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1600006694756">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1600006951558">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600006694756" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600006951558" />
     <state x="74" y="180" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1599994968874">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

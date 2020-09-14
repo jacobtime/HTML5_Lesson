@@ -109,8 +109,8 @@ p {
     left: 400px;
 }
 
-.c-glyph2:hover .c-glyph1:hover {
-    transform: translateX(20px);
+.c-glyph1:hover {
+    transform: translate(20px,0);
 }
 
 .c-radius-l {
